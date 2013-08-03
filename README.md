@@ -20,3 +20,7 @@ This page will evolve over time as the service expands and improves. That'll be 
 - Upstart
 - Git
 - Unison
+
+## Development
+
+Info about some of the tools used for development can be found on [Jonathan's blog](http://jaxbot.me/articles/my_workflow_draft_7_2_2013)
